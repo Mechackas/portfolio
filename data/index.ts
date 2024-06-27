@@ -8,17 +8,17 @@ export const navItems = [
 export const gridItems = [
   {
     id: 1,
-    title: "I prioritize client collaboration, fostering open communication ",
+    title: "We prioritize client collaboration, fostering open communication ",
     description: "",
     className: "lg:col-span-3 md:col-span-6 md:row-span-4 lg:min-h-[60vh]",
     imgClassName: "w-full h-full",
     titleClassName: "justify-end",
-    img: "/b1.svg",
+    img: "/home.gif",
     spareImg: "",
   },
   {
     id: 2,
-    title: "I'm very flexible with time your zone communications",
+    title: "We are flexible with time your zone communications",
     description: "",
     className: "lg:col-span-2 md:col-span-3 md:row-span-2",
     imgClassName: "",
@@ -28,7 +28,7 @@ export const gridItems = [
   },
   {
     id: 3,
-    title: "My tech stack",
+    title: "Our tech stack",
     description: "I constantly try to improve",
     className: "lg:col-span-2 md:col-span-3 md:row-span-2",
     imgClassName: "",
@@ -38,7 +38,7 @@ export const gridItems = [
   },
   {
     id: 4,
-    title: "Database enthusiast with a passion for Security.",
+    title: "Database enthusiasts with a passion for Security.",
     description: "",
     className: "lg:col-span-2 md:col-span-3 md:row-span-1",
     imgClassName: "",
@@ -72,15 +72,15 @@ export const gridItems = [
 export const projects = [
   {
     id: 1,
-    title: "rasi Principal DevOps Engineer",
+    title: "Risa Principal DevOps Engineer",
     des: "*Rwanda Information Society Authority (RISA) Full-time Dec 2020 Present - 3 yrs 6 mos Kigali City, Rwanda",
     img: "/risa.png",
     iconLists: [
-      { img: "/whatsapp.png", url: "https://whatsapp.com/your-whatsapp-url" },
-      { img: "/facebook.png", url: "https://facebook.com/your-facebook-url" },
-      { img: "/youtube.png", url: "https://youtube.com/your-youtube-url" },
-      { img: "/twitter.png", url: "https://twitter.com/your-twitter-url" },
-      { img: "/git.svg", url: "https://github.com/your-github-url" },
+      { img: "/whatsapp.png", url: "https://wa.me/+25078000693?text=Hey,%20talk%20to%20Emmy" },
+      { img: "/facebook.png", url: "https://web.facebook.com/kungerwa.mechack" },
+      { img: "/youtube.png", url: "https://www.youtube.com/watch?v=OFjoDZBLLXg" },
+      { img: "/twitter.png", url: "https://x.com/Rwandapolice" },
+      { img: "/git.svg", url: "https://github.com/" },
     ],
     link: "/info@risa.com",
   },
@@ -90,11 +90,11 @@ export const projects = [
     des: "MINISTRY OF FINANCE AND ECONOMIC PLANNING(MINECOFIN) · Full-time Nov 2020 - May 2023 · 2 yrs 7 mos Kigali City, Rwanda",
     img: "/minecofin.png",
     iconLists: [
-      { img: "/whatsapp.png", url: "https://whatsapp.com/your-whatsapp-url" },
-      { img: "/facebook.png", url: "https://facebook.com/your-facebook-url" },
-      { img: "/youtube.png", url: "https://youtube.com/your-youtube-url" },
-      { img: "/twitter.png", url: "https://twitter.com/your-twitter-url" },
-      { img: "/git.svg", url: "https://github.com/your-github-url" },
+      { img: "/whatsapp.png", url: "https://wa.me/+25078000693?text=Hey,%20talk%20to%20Emmy" },
+      { img: "/facebook.png", url: "https://web.facebook.com/kungerwa.mechack" },
+      { img: "/youtube.png", url: "https://www.youtube.com/watch?v=OFjoDZBLLXg" },
+      { img: "/twitter.png", url: "https://x.com/Rwandapolice" },
+      { img: "/git.svg", url: "https://github.com/" },
     ],
     link: "/info.minecofin.com",
   },
@@ -104,27 +104,55 @@ export const projects = [
     des: "Full stack software development, lead engineer on software development projects and mentoring of junior software engineers.",
     img: "/irembo.png",
     iconLists: [
-      { img: "/whatsapp.png", url: "https://whatsapp.com/your-whatsapp-url" },
-      { img: "/facebook.png", url: "https://facebook.com/your-facebook-url" },
-      { img: "/youtube.png", url: "https://youtube.com/your-youtube-url" },
-      { img: "/twitter.png", url: "https://twitter.com/your-twitter-url" },
-      { img: "/git.svg", url: "https://github.com/your-github-url" },
+      { img: "/whatsapp.png", url: "https://wa.me/+25078000693?text=Hey,%20talk%20to%20Emmy" },
+      { img: "/facebook.png", url: "https://web.facebook.com/kungerwa.mechack" },
+      { img: "/youtube.png", url: "https://www.youtube.com/watch?v=OFjoDZBLLXg" },
+      { img: "/twitter.png", url: "https://x.com/Rwandapolice" },
+      { img: "/git.svg", url: "https://github.com/" },
     ],
-    link: "/ui.aiimg.com",
+    link: "info@irembo.com",
   },
   {
     id: 4,
-    title: "IT Security Manager",
-    des: "Recreated the Apple iPhone 15 Pro System Administation, combining GSAP animations and Three.js 3D effects..",
-    img: "/p4.svg",
+    title: "Software Engineer",
+    des: "Led a team of software engineers developing ITSM (IT Service Management), Implemented six modules of ITSM including Configuration Management,.",
+    img: "/huhuii.png",
     iconLists: [
-      { img: "/whatsapp.png", url: "https://whatsapp.com/your-whatsapp-url" },
-      { img: "/facebook.png", url: "https://facebook.com/your-facebook-url" },
-      { img: "/youtube.png", url: "https://youtube.com/your-youtube-url" },
-      { img: "/twitter.png", url: "https://twitter.com/your-twitter-url" },
-      { img: "/git.svg", url: "https://github.com/your-github-url" },
+      { img: "/whatsapp.png", url: "https://wa.me/+25078000693?text=Hey,%20talk%20to%20Emmy" },
+      { img: "/facebook.png", url: "https://web.facebook.com/kungerwa.mechack" },
+      { img: "/youtube.png", url: "https://www.youtube.com/watch?v=OFjoDZBLLXg" },
+      { img: "/twitter.png", url: "https://x.com/Rwandapolice" },
+      { img: "/git.svg", url: "https://github.com/" },
     ],
-    link: "/ui.apple.com",
+    link: "Info@Ktnetworks.com",
+  },
+  {
+    id: 5,
+    title: "Lecturer",
+    des: "Design, prepare and develop courses, modules, and learning materials....",
+    img: "/auca.png",
+    iconLists: [
+      { img: "/whatsapp.png", url: "https://wa.me/+25078000693?text=Hey,%20talk%20to%20Emmy" },
+      { img: "/facebook.png", url: "https://web.facebook.com/kungerwa.mechack" },
+      { img: "/youtube.png", url: "https://www.youtube.com/watch?v=OFjoDZBLLXg" },
+      { img: "/twitter.png", url: "https://x.com/Rwandapolice" },
+      { img: "/git.svg", url: "https://github.com/" },
+    ],
+    link: "/info@auca.com",
+  },
+  {
+    id: 6,
+    title: "Distribution Analyst",
+    des: "Distribution analyst here is more of a software developer, i analyse and develop software for my company.",
+    img: "/rwandair3.png",
+    iconLists: [
+      { img: "/whatsapp.png", url: "https://wa.me/+250788277693?text=Hey,%20talk%20to%20Emmanuel" },
+      { img: "/facebook.png", url: "https://web.facebook.com/kungerwa.mechack" },
+      { img: "/youtube.png", url: "https://www.youtube.com/watch?v=OFjoDZBLLXg" },
+      { img: "/twitter.png", url: "https://x.com/Rwandapolice" },
+      { img: "/git.svg", url: "https://github.com/" },
+    ],
+    link: "/info@rwandair.com",
   },
 ];
 
@@ -198,31 +226,35 @@ export const companies = [
 export const workExperience = [
   {
     id: 1,
-    title: "Backend Engineer Intern",
-    desc: "Assisted in the development of a web-based platform using React.js, enhancing interactivity.",
+    title: "Senior Software Engineers",
+    desc: "Demonstrable experience of systems development to improve operational efficiency, in addition, implementing security measures to detect cyber threats. Skilled in Java, Javascript, Software Development, IoT and Penetration testing..",
     className: "md:col-span-2",
     thumbnail: "/exp1.svg",
+    extraInfo: "Worked on API development and database management. Implemented RESTful services and integrated third-party APIs."
   },
   {
     id: 2,
-    title: "Mobile App Dev Data Structure",
-    desc: "Designed and developed mobile app for both iOS & Android platforms using Native.",
+    title: "Data Analyst Consultants",
+    desc: " Ability to analyze large datasets to extract meaningful insights and identify trends,  Skill in creating clear and compelling visualizations (charts, graphs, dashboards) to communicate insights effectively.",
     className: "md:col-span-2", // change to md:col-span-2
     thumbnail: "/exp2.svg",
+    extraInfo: "Focused on creating efficient data structures and algorithms. Optimized app performance and implemented new features."
   },
   {
     id: 3,
-    title: "Freelance App Dev Project",
-    desc: "Led the dev of a mobile app for a client, from initial concept to deployment on app stores.",
+    title: "Software and Security Consultants",
+    desc: " Ability to assess and mitigate risks associated with software development and implementation, as well as cybersecurity threats, Strong consulting skills, including problem-solving, communication, and project management, to effectively advise clients and deliver successful outcomes.",
     className: "md:col-span-2", // change to md:col-span-2
     thumbnail: "/exp3.svg",
+    extraInfo: "Managed project timeline and deliverables. Coordinated with clients to ensure requirements were met and provided regular updates."
   },
   {
     id: 4,
-    title: "Software Engineer",
-    desc: "Developed and maintained user-facing features using modern technologies.",
+    title: "Mobile App Dev{ Ios, Android }",
+    desc: "Demonstrable experience of systems development to improve operational efficiency, in addition, implementing security measures to detect cyber threats, Skilled in Java, Javascript, Software Development, IoT and Penetration testing. Strong engineering professional with MSIT focused in Software Engineering from Carnegie Mellon University Africa.",
     className: "md:col-span-2",
     thumbnail: "/exp4.svg",
+    extraInfo: "Collaborated with cross-functional teams to design and implement new features. Utilized Agile methodologies for project management."
   },
 ];
 

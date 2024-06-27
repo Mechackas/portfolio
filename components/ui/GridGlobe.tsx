@@ -10,18 +10,18 @@ const World = dynamic(() => import("./Globe").then((m) => m.World), {
 const GridGlobe = () => {
   const globeConfig = {
     pointSize: 4,
-    globeColor: "#062056",
+    globeColor: "#2E8B57", // Sea Green for the main globe color
     showAtmosphere: true,
-    atmosphereColor: "#FFFFFF",
+    atmosphereColor: "#98FB98", // Pale Green for atmosphere
     atmosphereAltitude: 0.1,
-    emissive: "#062056",
-    emissiveIntensity: 0.1,
-    shininess: 0.9,
-    polygonColor: "rgba(255,255,255,0.7)",
-    ambientLight: "#38bdf8",
-    directionalLeftLight: "#ffffff",
-    directionalTopLight: "#ffffff",
-    pointLight: "#ffffff",
+    emissive: "#006400", // Dark Green for emissive color
+    emissiveIntensity: 0.2,
+    shininess: 0.8,
+    polygonColor: "rgba(144, 238, 144, 0.6)", // Light Green with transparency
+    ambientLight: "#7CFC00", // Lawn Green for ambient light
+    directionalLeftLight: "#ADFF2F", // Green Yellow for directional light
+    directionalTopLight: "#F0FFF0", // Honeydew for top light (slight white tint)
+    pointLight: "#E0FFFF", // Light Cyan for point light (slight blue tint)
     arcTime: 1000,
     arcLength: 0.9,
     rings: 1,
@@ -30,6 +30,7 @@ const GridGlobe = () => {
     autoRotate: true,
     autoRotateSpeed: 0.5,
   };
+
   const colors = ["#06b6d4", "#3b82f6", "#6366f1"];
   const sampleArcs = [
     {
