@@ -6,7 +6,7 @@ const Approach = () => {
   return (
     <section className="w-full py-20">
       <h1 className="heading text-center text-5xl font-extrabold text-white mb-20">
-        Our <span className="text-purple-400">Approach</span>
+        Our <span className="text-primary">Approach</span>
       </h1>
       <div className="my-20 flex flex-col lg:flex-row items-center justify-center w-full gap-10">
         <Card

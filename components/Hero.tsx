@@ -21,7 +21,7 @@ const Hero = () => {
           className="h-[80vh] w-[50vw] top-10 left-full"
           fill="purple"
         />
-        <Spotlight className="left-80 top-28 h-[80vh] w-[50vw]" fill="blue" />
+        <Spotlight className="left-80 top-28 h-[80vh] w-[50vw]" fill="green" />
       </div>
 
       {/**
@@ -36,6 +36,17 @@ const Hero = () => {
         <div
           // change the bg to bg-black-100, so it matches the bg color and will blend in
           className="pointer-events-none absolute inset-0 flex items-center justify-center bg-white dark:bg-black-100 [mask-image:radial-gradient(ellipse_at_center,transparent_20%,black)]"
+        />
+      </div>
+
+      {/* Logo */}
+      <div className="absolute top-1 left-2 md:top-2 md:left-2">
+        <Image
+          src="/review.png"
+          alt="Logo"
+          width={250}
+          height={250}
+          className=""
         />
       </div>
 
@@ -93,3 +104,4 @@ const Hero = () => {
 };
 
 export default Hero;
+

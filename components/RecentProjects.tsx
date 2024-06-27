@@ -13,7 +13,7 @@ const RecentProjects = () => {
     <div className="py-20 bg-gradient-to-gray-800 text-white">
       <h1 className="heading text-4xl font-bold text-center mb-10">
         Collaborative {" "}
-        <span className="text-blue-500">Projects and Achievements</span>
+        <span className="text-primary">Projects and Achievements</span>
       </h1>
       <div className="flex flex-wrap items-center justify-center p-4 gap-16 mt-10">
         {projects.map((item) => (

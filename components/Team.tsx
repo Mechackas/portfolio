@@ -57,7 +57,7 @@ const Team = () => {
   return (
     <div className="py-20">
       <h1 className="heading">
-        Meet Our <span className="text-purple">Dream Team</span>
+        Meet Our <span className="text-primary">Dream Team</span>
       </h1>
       <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8 mt-10 px-4">
         {teamMembers.map((member) => (
@@ -69,7 +69,7 @@ const Team = () => {
             <div className="relative flex items-center justify-center sm:w-96 w-[80vw] overflow-hidden h-[20vh] lg:h-[30vh] mb-10">
   <div
     className="relative w-full h-full overflow-hidden lg:rounded-3xl"
-    style={{ backgroundColor: "#13162D" }}
+    style={{ backgroundColor: "#0B3D30" }}
   >
     <img src="/bg.png" alt="bgimg" className="w-full h-full object-cover" />
   </div>
@@ -77,7 +77,7 @@ const Team = () => {
     <img
       src={member.image}
       alt={member.name}
-      className="z-10 rounded-full w-32 h-32 object-cover border-4 border-purple"
+      className="z-10 rounded-full w-32 h-32 object-cover border-4 border-green"
     />
   </div>
 </div>
@@ -88,7 +88,7 @@ const Team = () => {
               <p
                 className="lg:text-xl lg:font-normal font-light text-sm line-clamp-2"
                 style={{
-                  color: "#BEC1DD",
+                  color: "#28A745",
                   margin: "1vh 0",
                 }}
               >
@@ -114,10 +114,10 @@ const Team = () => {
                 </div>
 
                 <div className="flex justify-center items-center">
-                  <p className="flex lg:text-xl md:text-xs text-sm text-purple">
+                  <p className="flex lg:text-xl md:text-xs text-sm text-green">
                     View Profile
                   </p>
-                  <FaLocationArrow className="ms-3" color="#CBACF9" />
+                  <FaLocationArrow className="ms-3" color="#28A745" />
                 </div>
               </div>
             </PinContainer>
