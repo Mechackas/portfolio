@@ -83,6 +83,7 @@ export const projects = [
       { img: "/git.svg", url: "https://github.com/" },
     ],
     link: "/info@risa.com",
+    href: "https://risa.com",
   },
   {
     id: 2,
@@ -97,6 +98,7 @@ export const projects = [
       { img: "/git.svg", url: "https://github.com/" },
     ],
     link: "/info.minecofin.com",
+    href: "https://minecofin.com/",
   },
   {
     id: 3,
@@ -111,6 +113,7 @@ export const projects = [
       { img: "/git.svg", url: "https://github.com/" },
     ],
     link: "info@irembo.com",
+    href: "https://irembo.com",
   },
   {
     id: 4,
@@ -125,6 +128,7 @@ export const projects = [
       { img: "/git.svg", url: "https://github.com/" },
     ],
     link: "Info@Ktnetworks.com",
+    href: "https://ktnetworks.com",
   },
   {
     id: 5,
@@ -139,6 +143,7 @@ export const projects = [
       { img: "/git.svg", url: "https://github.com/" },
     ],
     link: "/info@auca.com",
+    href: "https://auca.com",
   },
   {
     id: 6,
@@ -153,6 +158,7 @@ export const projects = [
       { img: "/git.svg", url: "https://github.com/" },
     ],
     link: "/info@rwandair.com",
+    href: "https://rwandair.com",
   },
 ];
 

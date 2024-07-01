@@ -5,9 +5,10 @@ import { projects } from "@/data";
 import { PinContainer } from "./ui/Pin";
 
 const RecentProjects = () => {
-  const openSocialMedia = (url) => {
+  const openSocialMedia = (url: string) => {
     window.open(url, "_blank");
   };
+  
 
   return (
     <div className="py-20 bg-gradient-to-gray-800 text-white">
