@@ -50,7 +50,7 @@ const teamMembers = [
 ];
 
 const Team = () => {
-  const openSocialMedia = (url) => {
+  const openSocialMedia = (url: string) => {
     window.open(url, "_blank");
   };
 
